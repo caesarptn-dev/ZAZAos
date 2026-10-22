@@ -36,7 +36,7 @@ Snapdragon (US) Note 7 models are **not** supported.
 
 1. Unlock the bootloader and install a custom recovery (TWRP) for your model.
 2. Copy `ZAZAos.zip` to the phone.
-3. In recovery: **Wipe → Format data**, then **Install → ZAZAos.zip**.
+3. In recovery: **Wipe → Format data**, then **Install → ZAZAos.zip**. (you can flash **Nikgapps** and **Magisk** if u like to)
 4. Reboot. **The first boot takes several minutes** while Android optimises the apps.
 5. If the home screen asks which launcher to use, choose **ZAZA Launcher** (*Settings → Apps → Default apps → Home app*).
 
